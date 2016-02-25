@@ -31,7 +31,7 @@ Tested and works with Ruby 2.1.1, iRuby 0.2.8, Daru 0.1.1 and GnuplotRb 0.3.1
   German federal environment agency. 
 
 ## Other stuff
-This repository exists mainly to for backup and sorting
+This repository exists mainly for backup and sorting
 purposes. There is no warranty, that any of it actualy works or is not
 harmful. If you want to use any of it, I would very much like to hear
 about it. Thank you in advance.
