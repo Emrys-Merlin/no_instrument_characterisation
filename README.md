@@ -1,10 +1,10 @@
 # Characterisation of an instrument to measure the atmospheric NO concentration
 Based on a CE-DOAS instrument a new NO-measurement is evaluated and compared to other instruments.
 
-The scripts and data are part of my Bachelor's thesis. I try to
+The scripts and data are part of my [Bachelor's thesis](https://github.com/Emrys-Merlin/Bachelor-Physics). I try to
 improve a Cavity-Enhanced-DOAS (Differential Optical Absorption
-Spectroscopy) instrument. The instrument are mainly used to measure
-trace gases in the lower atmosphere. At my configuration it is not
+Spectroscopy) instrument. The instruments are mainly used to measure
+trace gases in the lower atmosphere. So far it is not
 able to detec Nitrogenmonoxide (NO). The topic of my thesis is to make
 this possible.
 
@@ -30,8 +30,3 @@ Tested and works with Ruby 2.1.1, iRuby 0.2.8, Daru 0.1.1 and GnuplotRb 0.3.1
 * ./UBA/: Contains all raw and formatted data retrieved from the
   German federal environment agency. 
 
-## Other stuff
-This repository exists mainly for backup and sorting
-purposes. There is no warranty, that any of it actualy works or is not
-harmful. If you want to use any of it, I would very much like to hear
-about it. Thank you in advance.
